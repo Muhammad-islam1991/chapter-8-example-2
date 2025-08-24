@@ -13,7 +13,7 @@ on:
   #
   workflow_dispatch: 
 
-  # Allows you to run this workflow manually from the Actions tab, I removed one dispatch
+  # Allows you to run this workflow manually from the Actions tab, I removed one dispatch and fixed it
   #workflow_dispatch:
   
 jobs:
